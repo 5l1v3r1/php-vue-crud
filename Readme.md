@@ -6,11 +6,7 @@
 ![Application Screenshot](https://raw.githubusercontent.com/mustafadalga/php-vue-crud/master/appScreenshot.png)
 
 
-### Live Demo
- * [Crud Uygulaması](https://vue-php-crud.000webhostapp.com)
 
- 
- 
 ### Nasıl Kurulur ? 
 * phpMyAdmin üzerinden bir veritabanı oluşturun.
 * vuedb.sql dosyasını içeri aktarın(import).
