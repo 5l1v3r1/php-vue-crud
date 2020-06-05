@@ -15,3 +15,11 @@
 * phpMyAdmin üzerinden bir veritabanı oluşturun.
 * vuedb.sql dosyasını içeri aktarın(import).
 * `http://localhost/<project-yolu>` adresinden uygulamayı çalıştırın.
+
+
+### Kullanılan Teknolojiler
+* PHP
+* Vue JS
+* Materialize CSS
+* HTML 5
+* CSS
