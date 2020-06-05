@@ -1,0 +1,19 @@
+.modal {
+    z-index: 1003;
+    opacity: 1;
+    top: 10%;
+    transform: scaleX(1) scaleY(1);
+}
+
+.modal-overlay {
+    z-index: 1002;
+    opacity: 0.5;
+}
+
+.d-block {
+    display: block;
+}
+
+a {
+    cursor: pointer;
+}
